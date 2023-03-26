@@ -5,6 +5,9 @@ public class Main {
             System.out.println(i);
         }
 
+        System.out.println("heelo i am abra");
+        System.out.println("not cadbra");
+
     }
 }
 
