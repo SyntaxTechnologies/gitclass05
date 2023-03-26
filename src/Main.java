@@ -5,8 +5,8 @@ public class Main {
             System.out.println(i);
         }
 
-        System.out.println("heelo i am abra");
-        System.out.println("i have updated the code");
+        hello howare u
+                i am fine thankyou
 
     }
 }
